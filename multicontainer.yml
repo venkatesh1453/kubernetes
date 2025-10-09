@@ -8,4 +8,4 @@ spec:
     image: nginx:latest
   - name: almalinux
     image: almalinux
-    command: ["/bin/sh", "-c", "while true; do echo Hello from AlmaLinux; sleep 10; done"]:
+    command: ["/bin/sh", "-c", "while true; do echo Hello from AlmaLinux; sleep 10; done"]
